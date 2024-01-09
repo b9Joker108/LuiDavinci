@@ -12,3 +12,5 @@
 <p align="left">
 <a href="https://dev.to/luidavinci" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="luidavinci" height="30" width="40" /></a>
 </p>
+
+NB: this is a really good HTML template to sex-up my README.md, hence reason for forking. 
